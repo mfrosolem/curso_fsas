@@ -1,0 +1,11 @@
+.metadata
+algamoney-api/.settings
+algamoney-api/target
+algamoney-api/.classpath
+algamoney-api/.factorypath
+algamoney-api/.project
+algamoney-api/HELP.md
+algamoney-api/.mvn
+algamoney-api/mvnw
+algamoney-api/mvnw.cmd
+algamoney-api/.gitignore
